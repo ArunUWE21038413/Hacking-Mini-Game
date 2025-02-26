@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UEFN Fortnite/Lockpicking_system/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/UEFN Fortnite/Lockpicking_system/Content/Blueprints/Bp_Door.uasset",
+				"C:/UEFN Fortnite/Lockpicking_system/Content/Blueprints/Bp_MiniGame.uasset",
+				"C:/UEFN Fortnite/Lockpicking_system/Content/StarterContent/Props/door_frame_0.uasset"
+			]
+		}
+	]
+}
